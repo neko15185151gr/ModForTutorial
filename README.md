@@ -11,4 +11,4 @@ Here is a tutorial link: https://www.youtube.com/watch?v=tPz-7HgcuDw&
 
 And if your lazy and you just want to download the mod then click this: https://github.com/fchb1239/ModForTutorial/raw/main/ModForTutorial.dll
 
-If you need help/it's not working then DM me on Discord and i'll see if I can help: fchb1239#5358
+If you need help with anything then DM me on Discord and i'll see if I can help: fchb1239#5358
