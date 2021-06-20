@@ -3,9 +3,9 @@ I don't really know lol
 
 So this thing is supposed to lean you how to make a simple no gravity mod for PC players in Monke Game.
 For this you need:
-Visaul Studio .NET Devolpment
-BepInEx
-And a PC (obviously)
+1. Visaul Studio .NET Devolpment
+2. BepInEx
+3. And a PC (obviously)
 
 Here is a tutorial link: https://www.youtube.com/watch?v=tPz-7HgcuDw&
 
