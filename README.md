@@ -1,5 +1,5 @@
 Designed to learn new people to mod Gorilla Tag
-I don't really know lol
+(I don't really know lol)
 
 So this thing is supposed to lean you how to make a simple no gravity mod for PC players in Monke Game.
 For this you need:
