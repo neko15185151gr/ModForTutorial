@@ -30,7 +30,6 @@ namespace ModForTutorial
         static bool noGrav = false;
         static void Postfix(GorillaLocomotion.Player __instance)
         {
-            if(!PhotonNetwork.CurrentRoom.IsVisible || !PhotonNetwork.InRoom)
             {
                 List<InputDevice> list = new List<InputDevice>();
                 InputDevices.GetDevicesWithCharacteristics(UnityEngine.XR.InputDeviceCharacteristics.HeldInHand | UnityEngine.XR.InputDeviceCharacteristics.Right | UnityEngine.XR.InputDeviceCharacteristics.Controller, list);
